@@ -1,1 +1,1 @@
-title: My Tech & Security Blog\ndescription: A blog about tech projects and security with a neo brutalist aesthetic.\nbaseurl: ""\nurl: "https://Warlockobama.github.io"\nmarkdown: kramdown\npermalink: /:year/:month/:day/:title/
+title: "My Tech & Security Blog"\ndescription: A blog about tech projects and security with a neo brutalist aesthetic.\nbaseurl: ""\nurl: "https://Warlockobama.github.io"\nmarkdown: kramdown\npermalink: "/:year/:month/:day/:title/"
