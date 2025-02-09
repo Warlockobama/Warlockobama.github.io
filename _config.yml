@@ -1,6 +1,2 @@
 title: "My Tech & Security Blog"
 description: "A blog about tech projects and security with a neo brutalist aesthetic."
-baseurl: ""
-url: "https://Warlockobama.github.io"
-markdown: kramdown
-permalink: "/:year/:month/:day/:title/"
